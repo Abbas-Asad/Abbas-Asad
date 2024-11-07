@@ -31,3 +31,4 @@
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,tailwind,bootstrap,figma,react,next,netlify,vercel,github" /></a>
 </p>
+<hr>
