@@ -4,12 +4,13 @@
 <head>
 
 
-• 🤖 I’m currently building **Agentic AI systems** that can think, plan, retrieve, and act autonomously. <br> <br> 
-• 🧠 I work with LLMs, RAG pipelines, OpenAI SDK, Model Context Protocol (MCP), and A2A Protocol. <br> <br> 
-• 👨‍💻 All of my work is available at: https://github.com/Abbas-Asad/ <br> <br> 
-• 💬 Ask me about Autonomous Agents, Prompt Engineering, RAG, LLMs, or Tool Use in AI. <br> <br> 
-• ⚡ Fun fact: **I am a Self Taught developer.** <br> <br> 
-• 📫 How to reach me?  <br> <br>Mail at: abbas07tech@gmail.com <br>  LinkedIn: https://www.linkedin.com/in/abbas-asad/ <br><br> 
+• 🤖 I’m currently building **Agentic AI systems**. <br> <br> 
+• 🧠 I work with **LLMs, RAG pipelines, OpenAI SDK, MCP, and A2A Protocol**. <br> <br> 
+• 💬 Ask me about **AI Agents, Prompt Engineering, RAG, LLMs, or Tool Use in AI.** <br> <br> 
+• 👨‍💻 All of my work is available at: **https://github.com/Abbas-Asad** <br> <br> 
+• 📫 How to reach me **abbas07tech@gmail.com**
+
+<!-- <br><br> 
 
 <br>
 <hr>
@@ -28,4 +29,4 @@
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,tailwind,bootstrap,figma,react,next,netlify,vercel,github" /></a>
 </p>
-<hr>
+<hr> -->
