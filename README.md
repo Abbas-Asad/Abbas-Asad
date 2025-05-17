@@ -1,16 +1,13 @@
-![gheader](https://drive.google.com/uc?export=view&id=1koXiquTiVpgY7KVKeMvi37Ogta2NPt8A)
-<h3 align="center">Senior React Developer | Generative AI Learner | Student at GIAIC</h3>
-<hr>
-<!-- <h1 align="center">Hi 👋, I'm Abbas Asad</h1> 
-<h1 align="center">A Front-end Developer from Pakistan</h1> -->
+<h1 align="center">Hi 👋, I'm Abbas Asad</h1>
+<h3 align="center">Agentic AI Developer | Building Autonomous AI Systems with OpenAI SDK | Assistant Teacher at GIAIC (Governer's Initiative of AI & Computing)</h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1UZy35NSFCCb_toQRliXGLrmIMA4kyHzr">
 <head>
 
 
-• 🌱 I’m currently learning **Next JS.** <br> <br> 
-• 📗 I'm currently learning from **GIAIC.** <br> <br> 
-• 👨‍💻 All of my projects are available at: https://github.com/abbas-asad/ <br> <br> 
-• 💬 Ask me about **HTML, CSS, Typescript, Tailwind CSS, Reactjs.** <br> <br> 
+• 🤖 I’m currently building **Agentic AI systems** that can think, plan, retrieve, and act autonomously. <br> <br> 
+• 🧠 I work with LLMs, RAG pipelines, OpenAI SDK, Model Context Protocol (MCP), and A2A Protocol. <br> <br> 
+• 👨‍💻 All of my work is available at: https://github.com/Abbas-Asad/ <br> <br> 
+• 💬 Ask me about Autonomous Agents, Prompt Engineering, RAG, LLMs, or Tool Use in AI. <br> <br> 
 • ⚡ Fun fact: **I am a Self Taught developer.** <br> <br> 
 • 📫 How to reach me?  <br> <br>Mail at: abbas07tech@gmail.com <br>  LinkedIn: https://www.linkedin.com/in/abbas-asad/ <br><br> 
 
