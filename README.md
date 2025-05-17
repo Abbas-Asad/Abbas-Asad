@@ -1,4 +1,4 @@
-![gheader](https://drive.google.com/file/d/1koXiquTiVpgY7KVKeMvi37Ogta2NPt8A/view)
+![gheader](https://drive.google.com/uc?export=view&id=1koXiquTiVpgY7KVKeMvi37Ogta2NPt8A)
 <h3 align="center">Senior React Developer | Generative AI Learner | Student at GIAIC</h3>
 <hr>
 <!-- <h1 align="center">Hi 👋, I'm Abbas Asad</h1> 
