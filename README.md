@@ -1,9 +1,9 @@
-![gheader](https://freeimage.host/i/369lv3l)
+![gheader](https://drive.google.com/file/d/1koXiquTiVpgY7KVKeMvi37Ogta2NPt8A/view)
 <h3 align="center">Senior React Developer | Generative AI Learner | Student at GIAIC</h3>
 <hr>
 <!-- <h1 align="center">Hi 👋, I'm Abbas Asad</h1> 
 <h1 align="center">A Front-end Developer from Pakistan</h1> -->
-<img  align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1UZy35NSFCCb_toQRliXGLrmIMA4kyHzr/view">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1UZy35NSFCCb_toQRliXGLrmIMA4kyHzr">
 <head>
 
 
