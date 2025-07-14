@@ -1,14 +1,26 @@
 <h1 align="center">Hi 👋, I'm Abbas Asad</h1>
-<h3 align="center">Agentic AI Developer | Building Autonomous AI Systems with OpenAI SDK | Assistant Teacher at GIAIC (Governer's Initiative of AI & Computing)</h3>
+<h3 align="center">Agentic AI Developer | Building Autonomous AI Systems with OpenAI SDK | Assistant Teacher at GIAIC (Governer's Initiative for AI & Computing)</h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1UZy35NSFCCb_toQRliXGLrmIMA4kyHzr">
 <head>
 
 
-• 🤖 I’m currently building **Agentic AI systems**. <br> <br> 
-• 🧠 I work with **LLMs, RAG pipelines, OpenAI SDK, MCP, and A2A Protocol**. <br> <br> 
-• 💬 Ask me about **AI Agents, Prompt Engineering, RAG, LLMs, or Tool Use in AI.** <br> <br> 
-• 👨‍💻 All of my work is available at: **https://github.com/Abbas-Asad** <br> <br> 
-• 📫 How to reach me **abbas07tech@gmail.com**
+• 🤖 I build market-ready **AI Agents**.<br><br>
+• 🧠 I have expertise in:<br>
+**LLMs, RAG pipelines, OpenAI Agents SDK, MCP, and A2A Protocols**.<br><br>
+• 💬 Ask me about:<br>
+**Agentic AI, Prompt Engineering, Context Management, Retrieval-Augmented Generation (RAG), and Long-Term Memory in Agents.**<br><br>
+• 👨‍💻 All of my products are available at:<br>
+**[github.com/Abbas-Asad](https://github.com/Abbas-Asad)**<br><br>
+• 📫 Contact me here:<br>
+**abbas07tech@gmail.com**<br><br>
+• 🛠️ Solutions I Offer:<br>
+🩺 **Healthcare Patient Monitoring Agent**<br>
+🚚 **Supply Chain Optimization Agent**<br>
+🤖 **Customer Support Agent**<br>
+📬 **Email Management Agent**<br>
+📈 **Financial Trading Agent**<br><br>
+**Need a custom AI Agent for your business?**  <br>
+Let’s connect → **abbas07tech@gmail.com**
 
 <!-- <br><br> 
 
