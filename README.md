@@ -4,16 +4,16 @@
 <head>
 
 
-• 🤖 I build market-ready **AI Agents**.<br><br>
-• 🧠 I have expertise in:<br>
+- 🤖 I build market-ready **AI Agents**.<br><br>
+- 🧠 I have expertise in:<br>
 **LLMs, RAG pipelines, OpenAI Agents SDK, MCP, and A2A Protocols**.<br><br>
-• 💬 Ask me about:<br>
+- 💬 Ask me about:<br>
 **Agentic AI, Prompt Engineering, Context Management, Retrieval-Augmented Generation (RAG), and Long-Term Memory in Agents.**<br><br>
-• 👨‍💻 All of my products are available at:<br>
+- 👨‍💻 All of my products are available at:<br>
 **[github.com/Abbas-Asad](https://github.com/Abbas-Asad)**<br><br>
-• 📫 Contact me here:<br>
+- 📫 Contact me here:<br>
 **abbas07tech@gmail.com**<br><br>
-• 🛠️ Solutions I Offer:<br>
+- 🛠️ Solutions I Offer:<br>
 🩺 **Healthcare Patient Monitoring Agent**<br>
 🚚 **Supply Chain Optimization Agent**<br>
 🤖 **Customer Support Agent**<br>
